@@ -1,0 +1,29 @@
+{
+  "identifier" : "boardcare",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "boardcare_pro",
+      "localizations" : [
+        {
+          "description" : "Recurring oiling reminders and multi-board tracking",
+          "displayName" : "Cutting Board Care Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.boardcare.pro",
+      "referenceName" : "Cutting Board Care Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
